@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/counterr-app/static/css/main.8e19cb6b.css",
+    "main.js": "/counterr-app/static/js/main.b7f3ae1c.js",
+    "index.html": "/counterr-app/index.html",
+    "main.8e19cb6b.css.map": "/counterr-app/static/css/main.8e19cb6b.css.map",
+    "main.b7f3ae1c.js.map": "/counterr-app/static/js/main.b7f3ae1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e19cb6b.css",
+    "static/js/main.b7f3ae1c.js"
+  ]
+}
